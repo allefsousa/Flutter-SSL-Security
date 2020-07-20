@@ -24,7 +24,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   dio: ^3.0.9
+  font_awesome_flutter: ^8.8.1
   json_serializable: ^3.3.0
+
 
 
 dev_dependencies:
